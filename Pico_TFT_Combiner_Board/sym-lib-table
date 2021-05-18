@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RPi_Pico)(type Legacy)(uri ${KIPRJMOD}/RPi_Pico.lib)(options "")(descr ""))
+  (lib (name ILI9488_Touch)(type Legacy)(uri ${KIPRJMOD}/ILI9488_Touch.lib)(options "")(descr ""))
+)

@@ -2,7 +2,6 @@
 A touchscreen matrix using an 3.5" ILI9488 TFT with resistive touch and a Raspberry Pi Pico. The Raspberry Pi Pico has native HID Keyboard support. This sketch gives you 12 buttons in a 4x3 matrix. Each button can have one or more keyboard functions. 
 
 # Earle Philhower's `arduino-pico` core
-
 Installing the `arduino-pico` (https://github.com/earlephilhower/arduino-pico) core: 
 
 - In the Arduino IDE go to File->Preferences.
@@ -12,3 +11,7 @@ Installing the `arduino-pico` (https://github.com/earlephilhower/arduino-pico) c
 
 # LittleFS
 This example uses LittleFS for a tiny bit of storage. Storage is needed to store the calibration file that is created when calibrating the touchscreen. So make sure when you flash the Pico, you flash it with at least 64KB for the FS under "Flash Size".
+
+# Pico TFT Combiner board
+For better connections and a nice finished project you can use the Pico + TFT Combiner board I designed. You can order these straight from PCBWay (-link-), donwload the gerbers, or the Kicad project. You can find them in the `Pico_TFT_Combiner_Board` folder of this repository.
+
