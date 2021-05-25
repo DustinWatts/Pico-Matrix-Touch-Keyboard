@@ -1,6 +1,8 @@
 # Pico-Matrix-Touch-Keyboard
 A touchscreen matrix using an 3.5" ILI9488 TFT with resistive touch and a Raspberry Pi Pico. The Raspberry Pi Pico has native HID Keyboard support. This sketch gives you 12 buttons in a 4x3 matrix. Each button can have one or more keyboard functions. 
 
+![alt text](https://github.com/DustinWatts/Pico-Matrix-Touch-Keyboard/raw/main/assets/martix.JPG "Pico Martix Touch Keyboard")
+
 # Earle Philhower's `arduino-pico` core
 Installing the `arduino-pico` (https://github.com/earlephilhower/arduino-pico) core: 
 
@@ -24,8 +26,9 @@ For better connections and a nice finished project you can use the Pico + TFT Co
 
 # Connections
 
-You can use the diagram below if you want to connect the screen without using the combiner board.
+You can use the diagrams below if you want to connect the screen without using the combiner board.
 ![alt text](https://github.com/DustinWatts/Pico-Matrix-Touch-Keyboard/raw/main/assets/Connections.png "Connections")
+![alt text](https://github.com/DustinWatts/Pico-Matrix-Touch-Keyboard/raw/main/assets/connecting_ili9488_pico.png "Connections")
 
 
 
