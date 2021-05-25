@@ -1,6 +1,6 @@
 # Pico-Matrix-Touch-Keyboard
 
-![alt text](/assets/pico_martix.png "Pico Martix")
+![alt text](/assets/pico_matrix.png "Pico Martix")
 
 ![alt text](https://github.com/DustinWatts/Pico-Matrix-Touch-Keyboard/raw/main/assets/3drender.png "Combiner Board")
 
