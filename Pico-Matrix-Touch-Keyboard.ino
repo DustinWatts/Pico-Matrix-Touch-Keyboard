@@ -79,7 +79,7 @@ TFT_eSPI_Button key[12];
 
 void setup() {
   
-  Serial.begin(9600);
+  Serial.begin(115200);
   Serial.println("");
 
   // Initialise the TFT screen
