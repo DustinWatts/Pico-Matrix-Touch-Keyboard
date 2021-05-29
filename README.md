@@ -22,7 +22,7 @@ The sketch and board have been tested with the following Board Settings:
 This example uses LittleFS for a tiny bit of storage. Storage is needed to store the calibration file that is created when calibrating the touchscreen. So make sure when you flash the Pico, you flash it with at least 64KB for the FS under "Flash Size".
 
 # Pico TFT Combiner board
-For better connections and a nice finished project you can use the Pico + TFT Combiner board I designed. You can order these straight from PCBWay (-link-), donwload the gerbers, or the Kicad project. You can find them in the `Pico_TFT_Combiner_Board` folder of this repository.
+For better connections and a nice finished project you can use the Pico + TFT Combiner board I designed. You can order these straight from PCBWay (https://www.pcbway.com/project/shareproject/Pico_Matrix_Touch_Keypad.html), donwload the gerbers, or the Kicad project. You can find them in the `Pico_TFT_Combiner_Board` folder of this repository.
 ![alt text](https://github.com/DustinWatts/Pico-Matrix-Touch-Keyboard/raw/main/assets/3drender.png "Combiner Board")
 
 # Connections
