@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Pico + ILI9488-Touch Combiner Board"
+Date "2021-05-29"
+Rev "V1"
+Comp "Dustin Watts"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -286,4 +286,34 @@ Text GLabel 9400 2100 0    50   Input ~ 0
 GPIO3
 Text GLabel 9400 1900 0    50   Input ~ 0
 GPIO2
+Wire Notes Line
+	1000 800  1000 3800
+Wire Notes Line
+	1000 3800 3950 3800
+Wire Notes Line
+	3950 3800 3950 800 
+Wire Notes Line
+	3950 800  1000 800 
+Wire Notes Line
+	4350 800  4350 3800
+Wire Notes Line
+	4350 3800 6400 3800
+Wire Notes Line
+	6400 3800 6400 800 
+Wire Notes Line
+	6400 800  4350 800 
+Wire Notes Line
+	6800 800  6800 3800
+Wire Notes Line
+	6800 3800 10550 3800
+Wire Notes Line
+	10550 3800 10550 800 
+Wire Notes Line
+	10550 800  6800 800 
+Text Notes 3650 750  0    50   ~ 0
+Pi Pico
+Text Notes 5850 750  0    50   ~ 0
+TFT Connector
+Text Notes 10100 750  0    50   ~ 0
+Header Pins
 $EndSCHEMATC
